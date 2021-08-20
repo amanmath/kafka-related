@@ -12,7 +12,7 @@
 	<artifactId>kafka-spring</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>kafka-spring</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Kafka project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
